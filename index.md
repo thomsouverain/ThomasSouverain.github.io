@@ -10,7 +10,8 @@ I enjoy helping computer scientists integrate the ethical stakes behind their co
 Outside work, I am deeply drawn to the arts — especially poetry and Cuban salsa — and I recharge in the mountains through ultra-trail running.
 
 - [CV](./cv/)
-- [Publications](./publications/)
+- [Academic Publications](./publications/)
+- [Operational Works](./operational/)
 - [Videos](./videos/)
 - **Contact**: [LinkedIn](https://www.linkedin.com/in/thomas-souverain-2923671b6/)
 
