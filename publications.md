@@ -32,11 +32,12 @@ This page curates selected research and practitioner-oriented publications. Wher
    [Download](https://www.normandie.cci.fr/sites/g/files/mwbcuj1116/files/2025-08/Guide_pratique_IA_ethique_version-2.pdf)
 
 2. **Souverain, T., & Meric, N. (2021). _State of Ethical AI: Challenges posed by ethics to companies developing AI._**  
-   Report, 110 p. Analysis of stakes, international strategies, and applications to integrate Ethics into AI development.  
+   Report, 110 p. Analysis of stakes, international strategies, and applications to integrate Ethics into AI development.
+   [Download](assets/Souverain_white_paper_2021.pdf)
 
-3. **Souverain, T. (2025, French)._Generative AI as a New Idol?_**  
-   *Communio*, 65–76. DOI: https://doi.org/10.3917/commun.301.0065.
-   [Download](https://doi.org/10.3917/commun.301.0065)
+4. **Souverain, T. (2025, French)._Generative AI as a New Idol?_**  
+   *Communio*, 65–76. DOI: [https://doi.org/10.3917/commun.301.0065].
+    [Download](https://doi.org/10.3917/commun.301.0065)
 
 ---
 
