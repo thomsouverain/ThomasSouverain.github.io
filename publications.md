@@ -3,6 +3,14 @@ title: “Academic Publications on AI Ethics”
 permalink: /publications/
 ---
 
+## Editorial Work
+
+- **Founder & Editor-in-Chief** of a new interdisciplinary AI ethics journal associating research, industrial, and governance actors  
+  (ISSN, DOI assignment, >130 submissions, 20-article inaugural issue).  
+- **Scientific Chair** of the associated conference: (https://paris-conference.com/journal/)
+
+---
+
 
 ## PhD Thesis: Philosophy on the AI "Black Box"
 
