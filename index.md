@@ -12,8 +12,6 @@ Outside work, I am deeply drawn to the arts — especially poetry and Cuban sals
 - [CV](./cv/)
 - [Publications](./publications/)
 - [Videos](./videos/)
-- **Contact**
+- **Contact**: [LinkedIn](https://www.linkedin.com/in/thomas-souverain-2923671b6/)
 
-    :point_right: [LinkedIn](https://www.linkedin.com/in/thomas-souverain-2923671b6/)
-
-    :point_right: Mail: thomas[dot]souverain[at]ens[dot]psl[dot]eu
+    **Mail**: thomas[dot]souverain[at]ens[dot]psl[dot]eu
