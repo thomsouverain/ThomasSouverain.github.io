@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Thomas Souverain
+# My Profile
 
 <img src="{{ '/assets/img/Souverain_verbier_2022.jpeg' | relative_url }}" alt="Portrait" width="360" style="border-radius: 16px;"> <img src="{{ '/assets/img/Souverain_academic_image_soutenance.jpeg' | relative_url }}" alt="Portrait" width="180" style="border-radius: 16px;">
 
