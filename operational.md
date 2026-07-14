@@ -13,7 +13,7 @@ During the Winter Semester 2023 (01-04/2023), I visited Stanford and tested a sp
 [GitHub Repository](https://github.com/ThomasSouverain/classif_basic/blob/stability_tests/notebooks/gcn_ancestor_compare_xgb.ipynb)
 
 3. **FAIRNESS - Detecting and Mitigating Discriminations in Loan Lending (2022)**
-I built a package to make algorithmic fairness choices more accessible to lay users in binary classification (e.g. scoring, loan lending), which went to final of the 2022 Hackathon of the Monetary Authority of Singapore. My method reweighing disadvantaged clients is described in the [Topoi paper](https://arxiv.org/pdf/2407.14766), and partly accessible in this [GitHub Repository](https://github.com/thomsouverain/weights_distortion_impact).
+I built a package to make algorithmic fairness choices more accessible to lay users in binary classification (e.g. scoring, loan lending), which went to final of the 2022 Hackathon of the Monetary Authority of Singapore. My method reweighing disadvantaged clients is described in the [Topoi paper](https://arxiv.org/pdf/2407.14766), and accessible in this [GitHub Repository](github.com/thomsouverain/fairdream).
 
 ---
 
@@ -37,10 +37,14 @@ See for instance a practical [coding exercise I created](https://www.kaggle.com/
 
 ## Executive Stategies – White Papers to guide AI companies’ leaders and operating officers
 
-1. **Souverain, T. et al. (2023; re-ed. 2025, French). _Integrating Ethics in AI Systems._**  
+1. **Souverain, T., Grinbaum, A., & Klein, E. (2026). Watermarking LLMS: feasibility, constraints, and strategies.**  
+   CEA Paris-Saclay.
+   [Download](https://hal.science/hal-05573132v1/file/2026-03-30-White-paper-LLM-Watermarking-2.pdf)
+
+3. **Souverain, T. et al. (2023; re-ed. 2025, French). _Integrating Ethics in AI Systems._**  
    Hub France IA.  
    [Download](https://www.normandie.cci.fr/sites/g/files/mwbcuj1116/files/2025-08/Guide_pratique_IA_ethique_version-2.pdf)
 
-2. **Souverain, T., & Meric, N. (2021). _State of Ethical AI: Challenges posed by ethics to companies developing AI._**  
+4. **Souverain, T., & Meric, N. (2021). _State of Ethical AI: Challenges posed by ethics to companies developing AI._**  
    Report, 110 p. Analysis of stakes, international strategies, and applications to integrate Ethics into AI development.
    [Download](assets/Souverain_white_paper_2021.pdf)
