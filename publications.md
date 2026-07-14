@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Articles
 
-1. **Souverain, T., Égré, P. (2026). Fairness Intervetions in AI Classification: A Study on Explainability._**  
+1. **Souverain, T., Égré, P. (2026). Fairness Interventions in AI Classification: A Study on Explainability.**  
    *Topoi*.  
    [Download](https://arxiv.org/pdf/2407.14766)
 
