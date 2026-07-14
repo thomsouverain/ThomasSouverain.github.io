@@ -13,7 +13,7 @@ During the Winter Semester 2023 (01-04/2023), I visited Stanford and tested a sp
 [GitHub Repository](https://github.com/ThomasSouverain/classif_basic/blob/stability_tests/notebooks/gcn_ancestor_compare_xgb.ipynb)
 
 3. **FAIRNESS - Detecting and Mitigating Discriminations in Loan Lending (2022)**
-I built a package to make algorithmic fairness choices more accessible to lay users in binary classification (e.g. scoring, loan lending), which went to final of the 2022 Hackathon of the Monetary Authority of Singapore. My method reweighing disadvantaged clients is described in the [Topoi paper](https://arxiv.org/pdf/2407.14766), and accessible in this [GitHub Repository](github.com/thomsouverain/fairdream).
+I built a package to make algorithmic fairness choices more accessible to lay users in binary classification (e.g. scoring, loan lending), which went to final of the 2022 Hackathon of the Monetary Authority of Singapore. My method reweighing disadvantaged clients is described in the [Topoi paper](https://arxiv.org/pdf/2407.14766), and accessible in this [GitHub Repository](https://github.com/thomsouverain/fairdream).
 
 ---
 
