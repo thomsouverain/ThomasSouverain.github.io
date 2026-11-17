@@ -36,7 +36,7 @@ permalink: /publications/
    [Download](https://link.springer.com/content/pdf/10.1007/s10676-026-09918-w.pdf)
 
 3. **De Leeuw, N., Souverain, T., Grinbaum, A. (2026, under review for ICLR), _RedTeachingBench: A Curriculum-Grounded Red Teaming Benchmark for Teachers using LLMs._**
-[Download]([/assets/2026-11-17-RedTeachingBench Paper with philosophical discussion.pdf](https://github.com/thomsouverain/ThomasSouverain.github.io/blob/main/assets/2026-11-17-RedTeachingBench%20Paper%20with%20philosophical%20discussion.pdf))
+[Download](/assets/2026-11-17-RedTeachingBench%20Paper%20with%20philosophical%20discussion.pdf)
 
 4. **Souverain, T. (2025). _AI to renew public employment services? Explanation and trust of domain experts._**  
    *AI and Ethics*, Special Issue “Exploring the Mutations of Society in the Era of Generative AI”, 1–16.  
