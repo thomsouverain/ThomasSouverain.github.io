@@ -3,7 +3,7 @@ title: “Academic Publications on AI Ethics”
 permalink: /publications/
 ---
 
-## Editorial Work
+## Editorial Work - Organisation of a Large Interdisciplinary Conference on AI Ethics
 
 - **Founder & Editor-in-Chief** of a new interdisciplinary AI ethics journal associating research, industrial, and governance actors  
   (ISSN, DOI assignment, >130 submissions, 20-article inaugural issue).  
@@ -32,7 +32,7 @@ permalink: /publications/
    [Download](https://link.springer.com/epdf/10.1007/s11245-026-10454-x?sharing_token=Olha2PFCADMt4G-6R4XRrve4RwlQNchNByi7wbcMAY5K7-NQfs3u2lL0vAMP9KlDm7B85HDp16V_LhEZo8eIxl47d5-nda2E-Pk630t5QaGbgf4ygBw1l7h0Nk0-Lf4HAhxnBT0oYN4Oq_rUBVPtQKDAyNN5A3xU_HUjZ4YqKaQ%3D)
 
 2. **Souverain, T. (2026). _Watermarking Large Language Models in Europe: Interpreting the AI Act in Light of Technology._**  
-   arXiv preprint **arXiv:2511.03641**, _Ethics and Information Technology_, 28(4), 44.  
+   _Ethics and Information Technology_, 28(4), 44.  
    [Download](https://link.springer.com/content/pdf/10.1007/s10676-026-09918-w.pdf)
 
 3. **De Leeuw, N., Souverain, T., Grinbaum, A. (2026, under review for ICLR), _RedTeachingBench: A Curriculum-Grounded Red Teaming Benchmark for Teachers using LLMs._**
